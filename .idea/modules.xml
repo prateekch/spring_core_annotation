@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_exercise_annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_exercise_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_exercise_annotation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_exercise_annotation_main.iml" group="spring_exercise_annotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_exercise_annotation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_exercise_annotation_test.iml" group="spring_exercise_annotation" />
+    </modules>
+  </component>
+</project>
